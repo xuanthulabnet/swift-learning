@@ -1,7 +1,7 @@
 //Khai báo biến với từ khóa var
 //kiểu của biến sẽ xác định theo giá trị khởi tạo của nó
 //Ví dụ gán là 30, nên student_age sẽ là kiểu số nguyên
-var student_age = 30;
+var student_age = 20;
 print("Tuổi là: \(student_age)")
 
 //Biến có thể gán giá trị khác bất kỳ đâu
@@ -19,3 +19,4 @@ let months_of_year = 12
  months_of_year = 11, sẽ gây ra lỗi */
 
 print("Một năm có \(months_of_year) tháng")
+ 
